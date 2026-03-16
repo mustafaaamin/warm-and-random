@@ -1,4 +1,4 @@
-# Partile and Wave Dark Matter Volterra Codes
+# Particle and Wave Dark Matter Volterra Codes
 
 Mathematica notebooks accompanying a series of papers on particle and wave dark matter. Please cite the relevant paper if you use or adapt this code.
 
