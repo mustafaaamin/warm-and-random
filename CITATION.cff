@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Particle and Wave Dark Matter Volterra Codes"
+message: "If you use this code, please cite the repository and the associated papers."
+type: software
+authors:
+  - family-names: Amin
+    given-names: Mustafa A.
+    affiliation: Rice University
+repository-code: "https://github.com/mustafaaamin/particle-wave-dark-matter-volterra"
+license: BSD-3-Clause
